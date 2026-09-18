@@ -1,0 +1,101 @@
+Order_ID,Shipping_Mode,Customer_Segment,Product_Category,Order_Region,Shipping_Distance_km,Processing_Time_days,Shipping_Time_days,Scheduled_Delivery_Days,Order_Value,Previous_Delays,Warehouse_Load_pct,Late_Delivery_Risk
+SC001,Standard Class,Consumer,Office Supplies,East,521,2,3,7,1879,4,41,1
+SC002,Same Day,Consumer,Technology,South,467,2,1,5,3457,4,83,0
+SC003,Same Day,Home Office,Furniture,South,346,4,6,11,2747,1,73,0
+SC004,Standard Class,Corporate,Technology,East,724,5,5,10,12155,3,98,1
+SC005,Same Day,Consumer,Office Supplies,East,1307,5,6,13,3350,0,35,0
+SC006,First Class,Consumer,Technology,South,798,3,8,13,13866,2,50,0
+SC007,First Class,Consumer,Office Supplies,East,1457,1,3,6,12146,1,50,0
+SC008,Same Day,Corporate,Office Supplies,West,1422,3,1,4,13664,0,70,0
+SC009,First Class,Consumer,Technology,East,455,4,7,13,7717,1,63,0
+SC010,Second Class,Home Office,Office Supplies,East,1217,4,7,12,3793,1,95,1
+SC011,Standard Class,Consumer,Technology,West,1305,2,7,11,1240,3,78,1
+SC012,Same Day,Home Office,Furniture,South,1413,1,5,8,5773,0,67,0
+SC013,Second Class,Corporate,Technology,East,1045,2,2,6,5089,4,55,0
+SC014,First Class,Consumer,Office Supplies,South,1246,3,8,11,2032,2,69,1
+SC015,Standard Class,Consumer,Office Supplies,South,195,4,2,8,12747,1,46,0
+SC016,Second Class,Corporate,Office Supplies,Central,453,5,4,11,5307,3,77,1
+SC017,Same Day,Consumer,Technology,West,151,3,1,6,9275,1,58,0
+SC018,Standard Class,Home Office,Office Supplies,South,488,1,1,3,1360,4,60,0
+SC019,Same Day,Consumer,Office Supplies,West,1189,5,8,13,13055,3,82,1
+SC020,Standard Class,Consumer,Office Supplies,Central,745,4,7,12,14353,0,42,0
+SC021,Same Day,Home Office,Furniture,South,529,2,4,8,7550,1,84,0
+SC022,First Class,Corporate,Technology,South,927,5,2,7,10884,4,31,0
+SC023,Second Class,Consumer,Furniture,Central,1005,2,7,9,2897,3,30,1
+SC024,First Class,Corporate,Furniture,Central,1446,5,8,13,3311,2,57,0
+SC025,Standard Class,Home Office,Furniture,South,122,5,8,15,14170,4,50,1
+SC026,Standard Class,Consumer,Technology,South,1402,2,7,9,14786,4,61,1
+SC027,Standard Class,Home Office,Technology,Central,1366,5,6,12,3546,2,60,1
+SC028,Same Day,Consumer,Office Supplies,East,956,3,2,5,7708,4,42,0
+SC029,Second Class,Home Office,Furniture,West,734,1,4,6,4869,1,86,1
+SC030,First Class,Home Office,Office Supplies,South,1387,5,5,12,1897,1,63,0
+SC031,Standard Class,Home Office,Office Supplies,West,577,3,4,9,5817,1,63,1
+SC032,Same Day,Corporate,Technology,South,1319,4,5,9,258,2,46,0
+SC033,Second Class,Home Office,Furniture,Central,1168,1,2,3,14668,1,99,0
+SC034,First Class,Home Office,Office Supplies,West,900,2,1,4,6174,0,75,0
+SC035,Second Class,Home Office,Technology,East,1166,4,3,7,14365,1,52,0
+SC036,Standard Class,Consumer,Office Supplies,East,863,2,5,7,13100,0,78,0
+SC037,Same Day,Consumer,Technology,Central,736,3,4,7,587,1,81,0
+SC038,First Class,Consumer,Furniture,East,1333,5,7,14,14022,4,72,1
+SC039,Standard Class,Corporate,Technology,East,98,1,7,9,12136,2,85,1
+SC040,Standard Class,Corporate,Office Supplies,West,541,1,7,8,8718,4,55,1
+SC041,Same Day,Consumer,Office Supplies,East,1296,3,2,7,14946,2,94,0
+SC042,Same Day,Corporate,Furniture,East,1155,2,4,7,11094,3,52,1
+SC043,First Class,Corporate,Office Supplies,South,642,3,4,8,13073,4,71,1
+SC044,Same Day,Corporate,Office Supplies,West,1066,4,3,9,1589,2,95,1
+SC045,First Class,Consumer,Technology,East,480,2,3,5,957,1,90,0
+SC046,Standard Class,Corporate,Furniture,West,1491,4,8,13,4197,1,30,0
+SC047,Same Day,Consumer,Technology,Central,122,5,4,9,7678,1,89,1
+SC048,First Class,Corporate,Office Supplies,Central,1142,4,3,9,14314,3,87,1
+SC049,Second Class,Home Office,Furniture,Central,1303,2,5,8,1469,2,60,0
+SC050,First Class,Corporate,Office Supplies,South,303,2,4,7,11569,1,57,0
+SC051,Same Day,Corporate,Furniture,Central,871,1,4,6,6581,4,32,1
+SC052,Same Day,Corporate,Technology,East,631,4,7,13,12447,4,58,1
+SC053,Second Class,Corporate,Furniture,Central,79,4,6,12,11327,3,51,1
+SC054,Second Class,Home Office,Office Supplies,South,826,5,1,6,10730,3,47,1
+SC055,Second Class,Consumer,Furniture,Central,690,2,8,11,5729,3,65,1
+SC056,First Class,Consumer,Furniture,South,1124,1,6,7,10851,0,35,0
+SC057,Second Class,Consumer,Technology,West,508,2,8,12,2074,4,57,1
+SC058,First Class,Corporate,Technology,South,355,3,2,7,620,2,78,0
+SC059,Second Class,Consumer,Office Supplies,West,228,3,2,7,13022,0,74,0
+SC060,Same Day,Home Office,Furniture,South,1056,3,1,5,13673,3,43,0
+SC061,First Class,Home Office,Furniture,West,911,2,5,9,13441,4,91,1
+SC062,Same Day,Home Office,Office Supplies,East,680,2,2,5,14644,3,61,0
+SC063,Same Day,Corporate,Technology,Central,685,2,8,10,6013,2,73,0
+SC064,First Class,Home Office,Technology,West,195,2,7,10,9296,1,90,0
+SC065,Same Day,Consumer,Technology,East,473,4,4,9,11078,4,77,1
+SC066,First Class,Corporate,Office Supplies,East,740,4,5,10,4318,1,45,0
+SC067,First Class,Consumer,Office Supplies,West,412,2,8,11,12071,4,97,1
+SC068,First Class,Consumer,Technology,East,485,3,3,7,431,4,46,0
+SC069,Standard Class,Consumer,Office Supplies,East,1448,2,8,10,14498,0,66,1
+SC070,Same Day,Corporate,Furniture,West,125,3,8,11,13669,0,81,0
+SC071,Standard Class,Home Office,Office Supplies,South,330,2,5,7,4266,0,83,0
+SC072,Second Class,Home Office,Furniture,Central,926,3,7,11,9516,4,37,1
+SC073,Standard Class,Consumer,Office Supplies,West,561,1,3,4,3047,4,39,0
+SC074,Standard Class,Corporate,Furniture,Central,616,1,4,6,11782,2,88,0
+SC075,Second Class,Corporate,Office Supplies,West,890,1,4,7,2641,2,48,0
+SC076,Standard Class,Consumer,Furniture,East,919,1,8,11,5182,3,64,1
+SC077,Same Day,Corporate,Technology,South,904,3,5,8,1696,1,32,0
+SC078,Standard Class,Consumer,Furniture,Central,589,2,7,11,13540,3,41,1
+SC079,First Class,Corporate,Furniture,East,1392,1,3,5,6944,3,66,1
+SC080,Standard Class,Corporate,Technology,East,536,3,2,6,14370,4,30,1
+SC081,Same Day,Corporate,Technology,West,1081,3,8,13,7442,0,56,0
+SC082,Second Class,Corporate,Furniture,Central,268,1,4,7,2794,2,100,0
+SC083,Same Day,Consumer,Technology,South,965,1,3,5,11940,2,95,0
+SC084,Same Day,Corporate,Furniture,West,955,5,3,9,3322,4,95,1
+SC085,Standard Class,Corporate,Furniture,East,1059,3,1,5,12095,2,92,1
+SC086,Same Day,Home Office,Furniture,East,700,5,7,13,5472,1,60,1
+SC087,Same Day,Consumer,Furniture,South,671,4,7,12,11073,1,93,0
+SC088,Second Class,Home Office,Office Supplies,East,225,4,2,8,7686,0,48,0
+SC089,Second Class,Consumer,Furniture,East,713,5,7,14,1515,2,98,1
+SC090,First Class,Home Office,Office Supplies,Central,1128,1,2,3,10540,2,59,0
+SC091,Same Day,Consumer,Office Supplies,South,928,2,5,7,953,2,37,0
+SC092,First Class,Corporate,Furniture,West,520,5,7,14,11370,1,51,0
+SC093,Standard Class,Home Office,Furniture,West,1039,5,3,8,7755,2,88,1
+SC094,Standard Class,Corporate,Furniture,West,171,4,6,12,5101,3,62,1
+SC095,First Class,Consumer,Furniture,Central,238,2,7,11,6081,4,67,1
+SC096,Standard Class,Home Office,Furniture,East,36,5,1,8,12408,3,66,0
+SC097,First Class,Consumer,Office Supplies,West,1291,3,3,8,1791,0,69,0
+SC098,Standard Class,Home Office,Furniture,West,204,3,6,11,7007,1,55,0
+SC099,First Class,Home Office,Office Supplies,East,356,3,8,12,12431,2,44,0
+SC100,Standard Class,Consumer,Technology,Central,1161,3,2,6,428,2,98,0
